@@ -24,5 +24,7 @@ npm install
 #Run database migration & seeding
 php artisan migrate
 php artisan db:seed
-```
 
+#Run Vite
+npm run dev or npm run vite
+```
