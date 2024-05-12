@@ -7,7 +7,7 @@ const props = defineProps({
 })
 
 const offerMadeOn = computed(
-  () => new Date(props.offer.created_at).toLocaleDateString('en-PH', {
+  () => new Date(props.offer.created_at).toLocaleDateString('en-US', {
     weekday: 'long',
     year: 'numeric',
     month: 'long',
