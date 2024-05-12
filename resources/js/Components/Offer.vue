@@ -14,7 +14,7 @@ const difference = computed(
 )
 
 const madeOn = computed(
-  () => new Date(props.offer.created_at).toLocaleDateString('en-PH', {
+  () => new Date(props.offer.created_at).toLocaleDateString('en-US', {
     weekday: 'long',
     year: 'numeric',
     month: 'long',
