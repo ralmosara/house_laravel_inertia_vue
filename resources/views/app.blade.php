@@ -18,14 +18,14 @@
 
         <!-- Open Graph / Facebook -->
         <meta property="og:type" content="website">
-        <meta property="og:url" content="https://house.salimi.my/">
+        <meta property="og:url" content="https:///">
         <meta property="og:title" content="House — Online Property Listing">
         <meta property="og:description" content="This is an online property listing and marketplace platform app created using Laravel, Vue and Inertia.">
         <meta property="og:image" content="/house-preview.jpg">
 
         <!-- Twitter -->
         <meta property="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://house.salimi.my/">
+        <meta property="twitter:url" content="https:///">
         <meta property="twitter:title" content="House — Online Property Listing">
         <meta property="twitter:description" content="This is an online property listing and marketplace platform app created using Laravel, Vue and Inertia.">
         <meta property="twitter:image" content="/house-preview.jpg">
